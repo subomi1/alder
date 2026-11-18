@@ -1,0 +1,21 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+.output/
+.nitro/
+.tanstack/
+.vercel/
+*.log
+.eslintcache
+
+# Local tool files, not needed on GitHub
+.node_modules.lock
+.project_id
+tree.txt
+.grok/preview.log
+.grok/preview.pid
+.grok/status
+screenshots/
+.grok/skills/
